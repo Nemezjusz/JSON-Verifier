@@ -8,7 +8,7 @@ This Python program verifies the input JSON data against a specific requirement.
 
 To run the program, follow these steps:
 
-1. Navigate to the project's directory in your terminal or command prompt.
+1. Navigate to the project's source directory in your terminal or command prompt.
 2. Run the following command:
 ```
 python3 main.py <path_to_json>
